@@ -1,4 +1,4 @@
-# Diagn-stico-estrat-gico-integral-para-RappiPlus
+# Diagnostico-estrategico-integral-para-RappiPlus
 Análisis comercial de negocio de Rappi y verificar si las estrategias de venta están funcionando
 Proyecto de revisión datos de venta de Rappi, en donde se realizaron los siguientes pasos:
 1. Limpieza de datos
