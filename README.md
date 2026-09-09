@@ -8,3 +8,5 @@ Proyecto de revisión datos de venta de Rappi, en donde se realizaron los siguie
 5. Verificación de retención con SQL
 6. Experimentación de cambio y su validación para medir impacto de cambios
 7. Presentación de la información con dashboard
+
+<img width="1417" height="792" alt="image" src="https://github.com/user-attachments/assets/0c190e90-be33-4003-91c2-8ddd957ec251" />
